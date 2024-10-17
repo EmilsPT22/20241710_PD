@@ -27,18 +27,17 @@
     <br>
     <div>
     <label for="">Vai vēlies saņemt info par citiem mūsu organizētajiem pasākumiem?</label>
-    <br>
-    <label for="">Jā</label>
     <input type="checkbox" name="protams" id="protams">
-    <input type="checkbox" name="nemaz" id="nemaz">
+
+  
     </div>
     <br>
     <div>
     <label for="">Vai piekrīti mūsu mājaslapas lietošanas noteikumiem?</label>
-    <br>
-    <label for="">Nē</label>
+
+
     <input type="checkbox" name="protams" id="protams">
-    <input type="checkbox" name="nemaz" id="nemaz">
+    
     </div>
 
     <button type="button">Apstiprināt</button>
