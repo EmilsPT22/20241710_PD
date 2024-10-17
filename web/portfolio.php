@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
+    
 </head>
 <body>
     <img src="" alt="">
@@ -26,6 +27,8 @@
     
     <a href="index.php">index</a>
     <a href="portfolio.php">portfolio</a>
+
+    <script src="app.js"></script>
 
 </body>
 </html>

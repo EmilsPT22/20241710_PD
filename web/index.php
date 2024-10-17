@@ -7,9 +7,10 @@
 </head>
 <body>
 
-
-<a href="portfolio.php">portfolio</a>
-<a href="contact.php">contact</a>
+<ul>
+    <li><a href="portfolio.php">portfolio</a></li>
+    <li><a href="contact.php">contact</a></li>
+</ul>
     
 </body>
 </html>

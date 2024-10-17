@@ -36,7 +36,11 @@
     </div>
 
     <button type="button">Apstiprināt</button>
-    <a href="index.php">index</a>
-    <a href="portfolio.php">portfolio</a>
+
+    <ul>
+        <li><a href="index.php">index</a></li>
+        <li><a href="portfolio.php">portfolio</a></li>
+    </ul>
+
 </body>
 </html>
