@@ -8,7 +8,7 @@
 <body>
     <form action="">
         <div class="form-example">
-            <label for="vards">Ieraksti vārdu </label>
+            <label for="vards">Ieraksti vārdu</label>
             <input type="text" name="vards" id="vards" required />
         </div>
         <div class="form-example">
@@ -19,18 +19,24 @@
     </form>
 
     <select name="izvele" id="izvele">
-        <option value="--Izvelies opciju--"></option>
-        <option value="Atsauksme"></option>
-        <option value="Ieteikums"></option>
-        <option value="Jautājums"></option>
+        <option value="--Izvelies opciju--">--Izvelies opciju--</option>
+        <option value="Atsauksme">Atsauksme</option>
+        <option value="Ieteikums">Ieteikums</option>
+        <option value="Jautājums">Jautājums</option>
     </select>
+    <br>
     <div>
-    <label for="Vai vēlies saņemt info par citiem mūsu organizētajiem pasākumiem?"></label>
+    <label for="">Vai vēlies saņemt info par citiem mūsu organizētajiem pasākumiem?</label>
+    <br>
+    <label for="">Jā</label>
     <input type="checkbox" name="protams" id="protams">
     <input type="checkbox" name="nemaz" id="nemaz">
     </div>
+    <br>
     <div>
-    <label for="Vai piekrīti mūsu mājaslapas lietošanas noteikumiem?"></label>
+    <label for="">Vai piekrīti mūsu mājaslapas lietošanas noteikumiem?</label>
+    <br>
+    <label for="">Nē</label>
     <input type="checkbox" name="protams" id="protams">
     <input type="checkbox" name="nemaz" id="nemaz">
     </div>

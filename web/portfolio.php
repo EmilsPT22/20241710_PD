@@ -25,7 +25,7 @@
     
     <ul>
         <li><a href="index.php">index</a></li>
-        <li><a href="portfolio.php">portfolio</a></li>
+        <li><a href="contact.php">contact</a></li>
     </ul>
     
 
