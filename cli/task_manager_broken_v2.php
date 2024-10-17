@@ -5,7 +5,6 @@ class Task {
     private $title;
     private $description;
 
-
      public function __construct($id, $title, $description) {
         $id = $this->$id;
         $title = $this->$title;
@@ -30,7 +29,6 @@ class Task {
 }
 
 $tasks = [];
-
 function displayAllTasks($tasks) {
     if (empty($tasks)) {
         echo "No tasks available.\n";
@@ -40,7 +38,6 @@ function displayAllTasks($tasks) {
         }
     }
 }
-
 
 function createTask(&$tasks) {
     $title = readline("Enter Task Title: ");
@@ -78,7 +75,6 @@ function deleteTask(&$tasks) {
         echo "Task ID not found.\n";
     }
 }
-
 
 while ($choice == "Yes") {
     echo "\nToDo List CLI Application\n";
