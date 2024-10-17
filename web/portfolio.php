@@ -7,8 +7,8 @@
     
 </head>
 <body>
-    <img src="" alt="">
-    <button type="button">Paslēpt</button>
+    <img src="attels\Untitled.jpg" alt="Mana Bilde">
+    <button type="button">Paslept</button>
     <h1>Mani projekti</h1>
     <div>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam tenetur omnis dolores nam atque rerum odit dignissimos molestiae suscipit inventore?</p>
@@ -23,10 +23,11 @@
         </ul>
     </div>
     
+    <ul>
+        <li><a href="index.php">index</a></li>
+        <li><a href="portfolio.php">portfolio</a></li>
+    </ul>
     
-    
-    <a href="index.php">index</a>
-    <a href="portfolio.php">portfolio</a>
 
     <script src="app.js"></script>
 
